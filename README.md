@@ -6,7 +6,7 @@ A modern, interactive twist on the classic arcade game Pong! This browser-based 
 
 ## 📸 Screenshot
 
-![Hand-Tracking Pong Gameplay](path/to/your/screenshot.png)
+![Hand-Tracking Pong Gameplay](/screenshot.png)
 
 ## ✨ Features
 
